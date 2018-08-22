@@ -1,0 +1,1 @@
+/home/goto/redaktor.py
